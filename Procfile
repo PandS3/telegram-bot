@@ -1,1 +1,1 @@
-worker: python telegram_bot_pendle_focused.py
+worker: telegram_bot_advanced.py
